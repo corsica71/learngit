@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[uesr]
+      email=corsicaliu@163.com
+      name=corsica
