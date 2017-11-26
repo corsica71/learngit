@@ -1,0 +1,60 @@
+#xuanze{
+	border: #000000 1px solid;
+	width: 193px;
+	text-align: center;
+	position: relative;
+	left: 262px;
+}
+#xuanze li{
+	height: 10px;
+	position: relative;
+	right: 80px;
+}
+#sousuo{
+	position: static;
+}
+ #container{
+        position:relative;
+	 	left: 80px;
+        left:50%;
+        top: 40%;
+    }
+    #content{
+        float:left;
+        position:relative;
+        right:50%;
+		left: 80px;
+    }
+    input{
+        border:0;
+        width:300px;
+        height:30px;
+        font-size:18px;
+        padding:0 5px;
+        line-height:30px;
+		position: relative;
+		left: 1px;
+		
+    }
+    .item{
+        padding:3px 5px;
+        cursor:pointer;
+		font-size: 14px;
+    }
+    .addbg{
+		font-size: 14px;
+        background:white;
+    }
+    .first{
+        border:solid #ACA9A9 2px;
+        width:300px;
+		font-size: 14px;
+    }
+    #append{
+        border:solid #ACA9A9 2px;
+        border-top:0;
+        display:none;
+    }
+#北航威武{
+	display: none;
+}
